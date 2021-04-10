@@ -109,4 +109,4 @@ PUNTOS --> 10 + 5 = 15
 | MResearch   | 85          | 95     | 43   |
 
 **De 90 puntos a 100 puntos rango para aplicar visa 190**
-[link to a](linea-de-tiempo.md)
+[link to a](linea-de-tiempo.html)
