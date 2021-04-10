@@ -1,6 +1,8 @@
-# comparacion
+# australia opciones
 
-[costos](#costos) | [salario](#salario)
+## [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework)
+
+---
 
 ## costos
 
@@ -53,7 +55,7 @@ TOTAL --> 4 YEARS.
 PUNTOS --> 10 + 5 = 15  
 85 + 15 = 100
 
-## calculadora puntos
+## calculadora puntos [&#8593;](#australia-opciones)
 
         | LO QUE TENGO----------------------| INGLES & TRADUCTOR & 190----------|
         | concepto          | puntos | suma | concepto          | puntos | suma |
