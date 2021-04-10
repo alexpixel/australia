@@ -86,10 +86,9 @@ PUNTOS --> 10 + 5 = 15
 ## maestria coursework
 
 - evitar visa temporal 491
-- ganar 3 años de visa
+- 3 años de visa
+- 2 años para Visa de SponsorShip
 - 1 año professional para 5 puntos extra
-- ganar 2 años para Visa de SponsorShip
-- wd
 
 ## maestria research
 
@@ -106,4 +105,4 @@ PUNTOS --> 10 + 5 = 15
 | MResearch   | 85          | 95     | 44-A |
 
 **De 90 puntos a 100 puntos rango para aplicar visa 190**  
-==MARK==
+[link to a](linea-de-tiempo.md)
