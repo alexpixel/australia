@@ -1,6 +1,6 @@
 # australia opciones
 
-## [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework)
+### [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework)
 
 ---
 
@@ -37,7 +37,7 @@
 |  5   | heavy vehicle mechanical     | $74,000  |
 |  5   | vehicle mechanical           | $74,000  |
 
-## COMPARACION
+## COMPARACION [&#9757; ](#australia-opciones)
 
 | CARRERA                      | COSTO | SALARIO | C+S | TIEMPO | FINAL |
 | ---------------------------- | :---: | :-----: | :-: | :----: | :---: |
@@ -55,7 +55,7 @@ TOTAL --> 4 YEARS.
 PUNTOS --> 10 + 5 = 15  
 85 + 15 = 100
 
-## calculadora puntos [&#8593;](#australia-opciones)
+## calculadora puntos [&#9757;](#australia-opciones)
 
         | LO QUE TENGO----------------------| INGLES & TRADUCTOR & 190----------|
         | concepto          | puntos | suma | concepto          | puntos | suma |
@@ -87,7 +87,7 @@ PUNTOS --> 10 + 5 = 15
         | estado 190        | 5      | 90   | estado 190        | 5      | 90   |
                                             | maestria research | 10     | 100  |
 
-## maestria coursework
+## maestria coursework [&#9757;](#australia-opciones)
 
 - evitar visa temporal 491
 - 3 años de visa
