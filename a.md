@@ -3,7 +3,7 @@
 [TOC]
 
 [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)  
-<australia a.md#maestria-coursework->
+<a name="salario"/>
 
 ## costos
 
