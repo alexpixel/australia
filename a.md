@@ -6,15 +6,15 @@
 
 ## costos
 
-| RANK | CARRERA                      | COSTO         | SALARIO    |  AGENCIA  |  LOCATION  | #   |
-| :--: | ---------------------------- | ------------- | ---------- | :-------: | :--------: | --- |
-|  1   | heavy vehicle mechanical     | **`$18,600`** | $74,000    |    TRA    | GOLD COAST | 1   |
-|  2   | vehicle mechanical           | $25,000       | $74,000    |    TRA    | BUNDABERG  | 2   |
-|  3   | electrician                  | $26,000       | $94,000    |    TRA    |   DARWIN   | 3   |
-|  4   | civil engineers draftsperson | $31,000       | $81,000    | VETASESS  |   PERTH    | 4   |
-|  4   | electrical technician        | $31,000       | $92,000    |    TRA    |   PERTH    | 5   |
-|  5   | biomedical technician        | $35,500       | `$112,000` | ENGINEERS |  ADELAIDE  | 6   |
-|  6   | vehicle mechanical           | $35,750       | $74,000    |    TRA    |   PERTH    | 7   |
+| #   | RANK | CARRERA                      | COSTO         | SALARIO    |  AGENCIA  |  LOCATION  |
+| --- | :--: | ---------------------------- | ------------- | ---------- | :-------: | :--------: |
+| 1   |  1   | heavy vehicle mechanical     | **`$18,600`** | $74,000    |    TRA    | GOLD COAST |
+| 2   |  2   | vehicle mechanical           | $25,000       | $74,000    |    TRA    | BUNDABERG  |
+| 3   |  3   | electrician                  | $26,000       | $94,000    |    TRA    |   DARWIN   |
+| 4   |  4   | civil engineers draftsperson | $31,000       | $81,000    | VETASESS  |   PERTH    |
+| 5   |  4   | electrical technician        | $31,000       | $92,000    |    TRA    |   PERTH    |
+| 6   |  5   | biomedical technician        | $35,500       | `$112,000` | ENGINEERS |  ADELAIDE  |
+| 7   |  6   | vehicle mechanical           | $35,750       | $74,000    |    TRA    |   PERTH    |
 
 | #   | DEGREE                                                                                                                                                      |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +37,7 @@
 |  5   | heavy vehicle mechanical     | $74,000  |
 |  5   | vehicle mechanical           | $74,000  |
 
-## COMPARACION [&#9757; ](#australia-opciones)
+## Comparacion
 
 | CARRERA                      | COSTO | SALARIO | C+S | TIEMPO | FINAL |
 | ---------------------------- | :---: | :-----: | :-: | :----: | :---: |
@@ -48,14 +48,11 @@
 | vehicle mechanical           |   2   |    5    |  7  |   2    |   9   |
 | civil engineers draftsperson |   4   |    4    |  8  |   2    |  10   |
 
-MASTER 2 YEARS --> COSTO 53,000.  
-PROFESSIONAL YEAR ---> 1 YEARS.  
-WORK EXPERIENCIE --> 1 YEAR.  
-TOTAL --> 4 YEARS.  
-PUNTOS --> 10 + 5 = 15  
-85 + 15 = 100
+[&#9757;](#australia-opciones)
 
-## calculadora puntos [&#9757;](#australia-opciones)
+---
+
+## calculadora puntos
 
         | LO QUE TENGO----------------------| INGLES & TRADUCTOR & 190----------|
         | concepto          | puntos | suma | concepto          | puntos | suma |
@@ -87,7 +84,9 @@ PUNTOS --> 10 + 5 = 15
         | estado 190        | 5      | 90   | estado 190        | 5      | 90   |
                                             | maestria research | 10     | 100  |
 
-## maestria coursework [&#9757;](#australia-opciones)
+---
+
+## maestria coursework
 
 - evitar visa temporal 491
 - 3 años de visa
@@ -99,6 +98,11 @@ PUNTOS --> 10 + 5 = 15
 - 10 puntos
 - 5 puntos professional year
 - 3 años visa
+<p style="text-align: right;">
+  <a  href="#australia-opciones" >
+  [&#9757;]
+  </a>
+</p>
 
 ---
 
