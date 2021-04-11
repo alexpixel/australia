@@ -2,9 +2,8 @@
 
 [TOC]
 
-[costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework)
-
----
+[costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)  
+<project URL#<maestria-coursework->
 
 ## costos
 
