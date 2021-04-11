@@ -2,8 +2,9 @@
 
 [TOC]
 
-[costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)  
-<a name="salario"/> sal</a>
+[costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)
+
+- <a href="#maestria-coursework-"> sal</a>
 
 ## costos
 
@@ -38,7 +39,7 @@
 |  5   | heavy vehicle mechanical     | $74,000  |
 |  5   | vehicle mechanical           | $74,000  |
 
-## Comparacion
+## comparacion
 
 | CARRERA                      | COSTO | SALARIO | C+S | TIEMPO | FINAL |
 | ---------------------------- | :---: | :-----: | :-: | :----: | :---: |
@@ -55,7 +56,9 @@
 
 ## calculadora puntos
 
-        | LO QUE TENGO----------------------| INGLES & TRADUCTOR & 190----------|
+### puntos TAFE
+
+          LO QUE TENGO                        TAFE
         | concepto          | puntos | suma | concepto          | puntos | suma |
         | ----------------- | ------ | ---- | ----------------- | ------ | ---- |
         | edad              | 15     | 15   | edad              | 15     | 15   |
@@ -68,49 +71,34 @@
                                             | traductor         | 5      | 70   |
                                             | ingles ALTO       | 10     | 80   |
                                             | estado 190        | 5      | 85   |
-        ------------------------------------------------------------------------
 
-MAESTRIA COURSEWORK
+### puntos maestria
 
-| concepto          | puntos | suma |
-| ----------------- | ------ | ---- |
-| edad              | 15     | 15   |
-| licenciatura      | 15     | 30   |
-| soltero           | 10     | 40   |
-| ingles            | 10     | 50   |
-| estudio australia | 5      | 55   |
-| trabajo australia | 5      | 60   |
-| estudio regional  | 5      | 65   |
-| traductor         | 5      | 70   |
-| ingles ALTO       | 10     | 80   |
-| professional year | 5      | 85   |
-| estado 190        | 5      | 90   |
+          MAESTRIA COURSEWORK                 MAESTRIA RESEARCH
+        | concepto          | puntos | suma | concepto          | puntos | suma |
+        | ----------------- | ------ | ---- | ----------------- | ------ | ---- |
+        | edad              | 15     | 15   | traductor         | 5      | 70   |
+        | licenciatura      | 15     | 30   | maestria research | 10     | 80   |
+        | soltero           | 10     | 40   | professional year | 5      | 85   |
+        | ingles            | 10     | 50   | ingles ALTO       | 10     | 95   |
+        | estudio australia | 5      | 55   | ESTADO 190        | 5      | 100  |
+        | trabajo australia | 5      | 60   |
+        | estudio regional  | 5      | 65   |
+        | traductor         | 5      | 70   |
+        | professional year | 5      | 75   |
+        | ingles ALTO       | 10     | 85   |
+        | estado 190        | 5      | 90   |
 
-**MAESTRIA RESEARCH**
+## ventajas maestria
 
-| concepto          | puntos | suma |
-| ----------------- | ------ | ---- |
-| edad              | 15     | 15   |
-| licenciatura      | 15     | 30   |
-| soltero           | 10     | 40   |
-| ingles            | 10     | 50   |
-| estudio australia | 5      | 55   |
-| trabajo australia | 5      | 60   |
-| estudio regional  | 5      | 65   |
-| traductor         | 5      | 70   |
-| ingles ALTO       | 10     | 80   |
-| professional year | 5      | 85   |
-| estado 190        | 5      | 90   |
-| maestria research | 10     | 100  |
-
-## maestria coursework [&#9757;](#australia-opciones)
+### maestria coursework [&#9757;](#australia-opciones)
 
 - evitar visa temporal 491
 - 3 años de visa
 - 2 años para Visa de SponsorShip
 - 1 año professional para 5 puntos extra
 
-## maestria research
+### maestria research
 
 - 10 puntos
 - 5 puntos professional year
@@ -118,7 +106,9 @@ MAESTRIA COURSEWORK
 
 ---
 
-**Puntos Minimos sin puntos del Estado y sin Ingles Avanzado.**
+## puntos minimos
+
+**puntos minimos sin puntos del Estado y sin Ingles Avanzado.**
 
 | Curso       | Puntos Min. | INGLES | EDAD |
 | ----------- | ----------- | ------ | ---- |
