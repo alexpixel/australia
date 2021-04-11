@@ -3,7 +3,7 @@
 [TOC]
 
 [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)  
-<a name="salario"/>
+<a name="salario"/> sal</a>
 
 ## costos
 
