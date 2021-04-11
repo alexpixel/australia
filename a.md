@@ -1,6 +1,7 @@
 # australia opciones
 
-### [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework)
+[TOC]
+[costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](<#maestria-coursework\ >)
 
 ---
 
@@ -67,26 +68,42 @@
                                             | traductor         | 5      | 70   |
                                             | ingles ALTO       | 10     | 80   |
                                             | estado 190        | 5      | 85   |
-        -------------------------------------------------------------------------
-        | MAESTRIA COURSEWORK---------------| MAESTRIA COURSEWORK---------------|
-        | concepto          | puntos | suma | concepto          | puntos | suma |
-        | ----------------- | ------ | ---- | ----------------- | ------ | ---- |
-        | edad              | 15     | 15   | edad              | 15     | 15   |
-        | licenciatura      | 15     | 30   | licenciatura      | 15     | 30   |
-        | soltero           | 10     | 40   | soltero           | 10     | 40   |
-        | ingles            | 10     | 50   | ingles            | 10     | 50   |
-        | estudio australia | 5      | 55   | estudio australia | 5      | 55   |
-        | trabajo australia | 5      | 60   | trabajo australia | 5      | 60   |
-        | estudio regional  | 5      | 65   | estudio regional  | 5      | 65   |
-        | traductor         | 5      | 70   | traductor         | 5      | 70   |
-        | ingles ALTO       | 10     | 80   | ingles ALTO       | 10     | 80   |
-        | professional year | 5      | 85   | professional year | 5      | 85   |
-        | estado 190        | 5      | 90   | estado 190        | 5      | 90   |
-                                            | maestria research | 10     | 100  |
+        ------------------------------------------------------------------------
 
----
+MAESTRIA COURSEWORK
 
-## maestria coursework
+| concepto          | puntos | suma |
+| ----------------- | ------ | ---- |
+| edad              | 15     | 15   |
+| licenciatura      | 15     | 30   |
+| soltero           | 10     | 40   |
+| ingles            | 10     | 50   |
+| estudio australia | 5      | 55   |
+| trabajo australia | 5      | 60   |
+| estudio regional  | 5      | 65   |
+| traductor         | 5      | 70   |
+| ingles ALTO       | 10     | 80   |
+| professional year | 5      | 85   |
+| estado 190        | 5      | 90   |
+
+**MAESTRIA RESEARCH**
+
+| concepto          | puntos | suma |
+| ----------------- | ------ | ---- |
+| edad              | 15     | 15   |
+| licenciatura      | 15     | 30   |
+| soltero           | 10     | 40   |
+| ingles            | 10     | 50   |
+| estudio australia | 5      | 55   |
+| trabajo australia | 5      | 60   |
+| estudio regional  | 5      | 65   |
+| traductor         | 5      | 70   |
+| ingles ALTO       | 10     | 80   |
+| professional year | 5      | 85   |
+| estado 190        | 5      | 90   |
+| maestria research | 10     | 100  |
+
+## maestria coursework [&#9757;](#australia-opciones)
 
 - evitar visa temporal 491
 - 3 años de visa
@@ -98,11 +115,6 @@
 - 10 puntos
 - 5 puntos professional year
 - 3 años visa
-<p style="text-align: right;">
-  <a  href="#australia-opciones" >
-  [&#9757;]
-  </a>
-</p>
 
 ---
 
@@ -115,4 +127,4 @@
 | MResearch   | 85          | 95     | 43   |
 
 **De 90 puntos a 100 puntos rango para aplicar visa 190**
-[link to a](linea-de-tiempo.html)
+[link to a](linea-de-tiempo.md)
