@@ -4,8 +4,6 @@
 
 [costos](#costos) | [salario](#salario) | [calculadora](#calculadora-puntos) | [ventajas](#maestria-coursework-)
 
-- <a href="#maestria-coursework-"> sal</a>
-
 ## costos
 
 | #   | RANK | CARRERA                      | COSTO         | SALARIO    |  AGENCIA  |  LOCATION  |
@@ -116,5 +114,15 @@
 | MCorusework | 75          | 85     | 43   |
 | MResearch   | 85          | 95     | 43   |
 
+## tiemppo residencia
+
+| estudio | work | rp  | rt  | total |
+| ------- | ---- | --- | --- | ----- |
+| 2       | 1    | 4   |     | 7     |
+| 2       | 2    | 4   |     | 8     |
+| 2       | 1    | 2   | 4   | 9     |
+| 2       | 1    | 2   | 4   | 9     |
+
 **De 90 puntos a 100 puntos rango para aplicar visa 190**
-[link to a](linea-de-tiempo.md)
+[link to a](linea-de-tiempo.md)  
+[destination australia escuelas](destination_australia_2020_list_providers.pdf)
